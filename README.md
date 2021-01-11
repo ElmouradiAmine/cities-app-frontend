@@ -1,8 +1,8 @@
 ## Installation 
 First of all, clone the repository to your machine and open the created folder.
 ```bash
-$ git clone https://github.com/ElmouradiAmine/cities-app-backend.git
-$ cd cities-app-backend
+$ git clone https://github.com/ElmouradiAmine/cities-app-frontend.git
+$ cd cities-app-frontend
 ```
 Install the dependencies and run the app.
 ```bash 
