@@ -1,0 +1,10 @@
+.city-dashboard {
+    padding: 3.2rem;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: min-content 1fr;
+    column-gap: 1.6rem;
+    row-gap: 1.6rem;
+    grid-column: 2/3;
+    height: 90vh;
+  }
